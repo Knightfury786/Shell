@@ -1,2 +1,2 @@
-# Shell siraj
-Schell Scripts
+# Shell 
+Schell Scripts fir reference.
