@@ -1,2 +1,2 @@
 # Shell 
-Schell Scripts fir reference.
+Shell Scripts for reference and practice.
